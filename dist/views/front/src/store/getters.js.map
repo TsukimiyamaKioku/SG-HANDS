@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../src/views/front/src/store/getters.js"],"names":["getters"],"mappings":";;;;;AAAA,IAAMA,UAAU,EAAhB;kBAEeA,O","file":"getters.js","sourcesContent":["const getters = {\r\n}\r\nexport default getters\r\n"]}
